@@ -3,7 +3,7 @@ JIANG LINGSHUO
 ## Contacts
 
 - Phone:   
-(Singapore)+65 90817556  
+(Singapore)+65 83537423
 (China)    +86 13804560526
 - Email：  
 jianglingshuo0526@gmail.com  
@@ -54,8 +54,8 @@ e0134094@u.nus.edu
 
 ## Non-programming Related Skills
 - Photoshop
-- Chinese(Mandrain)
-- Spanish
+- Chinese(Mandrain) National Mandarin Test(2018) Level 1 Grade B 92.1/100
+- Spanish(A2)
 
 
 
