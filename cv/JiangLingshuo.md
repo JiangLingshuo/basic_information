@@ -36,6 +36,21 @@ e0134094@u.nus.edu
 
  - [Bamboo](https://github.com/CS2103AUG2017-W09-B4/main)：A CLI-based addressbook with task-planning features.
  In charge of model and logic part
+ 
+ 
+# Experiences
+
+## High school
+
+Harbin No.3 High School
+
+- Vice president in Student Union
+- Honor student in Harvard Summit for Youth Leaders in China
+
+
+## NUS
+
+- Science and Technology Scholarship
 
 
 # List of Skills
