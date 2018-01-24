@@ -69,7 +69,9 @@ Harbin No.3 High School
 
 ## Non-programming Related Skills
 - Photoshop
-- Chinese(Mandrain) National Mandarin Test(2018) Level 1 Grade B 92.1/100
+- Imovie
+- Basic Designing
+- Chinese(Mandrain) National Mandarin Test(2018) First Class Grade B 92.1/100
 - Spanish(A2)
 
 
