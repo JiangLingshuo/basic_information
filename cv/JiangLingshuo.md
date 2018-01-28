@@ -40,18 +40,26 @@ e0134094@u.nus.edu
  
 # Experiences
 
-## High school
+## Harbin No.3 High School
 
-Harbin No.3 High School
+2013.09 -- 2015.07
 
 - Vice president in Student Union
 - Honor student in Harvard Summit for Youth Leaders in China
+- Participate in Model United Nations, American High School debating
 
+## Senior Middle 2 Programme Bridging Course
+
+2015.07 -- 2016.06
+
+- Level Head and logistic member of EXCO in the 89 people cohort
 
 ## NUS
 
 - Science and Technology Scholarship
-
+- Publicity Head in NUS Chinese Society
+- Paticipated in outreach andpublicity work in Inter Faculty Games
+- Help improving programming methdology module through CP3108B Project
 
 # List of Skills
 
@@ -69,7 +77,7 @@ Harbin No.3 High School
 
 ## Non-programming Related Skills
 - Photoshop
-- Imovie
+- IMovie
 - Basic Designing
 - Chinese(Mandrain) National Mandarin Test(2018) First Class Grade B 92.1/100
 - Spanish(A2)
