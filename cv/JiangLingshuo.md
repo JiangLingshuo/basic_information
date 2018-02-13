@@ -13,8 +13,8 @@ e0134094@u.nus.edu
 
 # Personal information
 
- - Female/1998
- - National University of Singapore/Computer Science Year 2
+- Female/1998
+- National University of Singapore/Computer Science Year 2
 - Facebook: Jiang Lingshuo
 - Linkin: Jiang Lingshuo
 - Github: https://github.com/JiangLingshuo
@@ -56,9 +56,14 @@ e0134094@u.nus.edu
 
 ## NUS
 
+2016.06 --
+
 - Science and Technology Scholarship
+- Member of NUS Chinese Debate Team
+- Champion in 2017 "Linchao" Cup International Chinese Debate Competition Hangzhou
+- Participated in 2017 International Debate Competition held by University of Tun Husssein Onn Malaysia and 2017 Anti-corruption Cup Debate Competition in Taiwan
 - Publicity Head in NUS Chinese Society
-- Paticipated in outreach andpublicity work in Inter Faculty Games
+- Paticipated in outreach and publicity work in Inter Faculty Games
 - Help improving programming methdology module through CP3108B Project
 
 # List of Skills
