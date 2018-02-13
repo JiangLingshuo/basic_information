@@ -61,10 +61,10 @@ e0134094@u.nus.edu
 - Science and Technology Scholarship
 - Member of NUS Chinese Debate Team
 - Champion in 2017 "Linchao" Cup International Chinese Debate Competition Hangzhou
-- Participated in 2017 International Debate Competition held by University of Tun Husssein Onn Malaysia and 2017 Anti-corruption Cup Debate Competition in Taiwan
+- Participate in 2017 International Debate Competition held by University of Tun Hussein Onn Malaysia and 2017 Anti-corruption Cup Debate Competition in Taiwan
 - Publicity Head in NUS Chinese Society
-- Paticipated in outreach and publicity work in Inter Faculty Games
-- Help improving programming methdology module through CP3108B Project
+- Participate in outreach and publicity work in Inter-Faculty Games
+- Help improving programming methodology module through CP3108B Project
 
 # List of Skills
 
