@@ -62,9 +62,16 @@ e0134094@u.nus.edu
 - Member of NUS Chinese Debate Team
 - Champion in 2017 "Linchao" Cup International Chinese Debate Competition Hangzhou
 - Participate in 2017 International Debate Competition held by University of Tun Hussein Onn Malaysia and 2017 Anti-corruption Cup Debate Competition in Taiwan
+- Worked in AIESEC Poland International Kindergarten as a volunteer
 - Publicity Head in NUS Chinese Society
 - Participate in outreach and publicity work in Inter-Faculty Games
 - Help improving programming methodology module through CP3108B Project
+
+## Universidad Catolica San Antonio de Murcia
+
+2017.07 -- 2017.08
+
+- Study Spanish and get equivalence of A2
 
 # List of Skills
 
